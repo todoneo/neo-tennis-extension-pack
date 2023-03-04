@@ -1,0 +1,47 @@
+{
+  "name": "neo-tennis-extension-pack",
+  "displayName": "neo-tennis-developer-extension-pack",
+  "description": "Pacote com boas extensões para desenvolvimento de angular e spring boot",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "waderyan.nodejs-extension-pack",
+
+    "vscjava.vscode-java-pack",
+    "vmware.vscode-boot-dev-pack",
+
+    "johnpapa.angular-essentials",
+
+    "bierner.github-markdown-preview",
+
+    "vscjava.vscode-lombok",
+    "redhat.fabric8-analytics",
+    "redhat.vscode-xml",
+
+    "rangav.vscode-thunder-client",
+
+    "donjayamanne.githistory",
+    "waderyan.gitblame",
+    "shaharkazaz.git-merger",
+    "mhutchie.git-graph",
+    "eamodio.gitlens",
+    "qezhu.gitlink",
+
+    "VisualStudioExptTeam.vscodeintellicode",
+    "VisualStudioExptTeam.intellicode-api-usage-examples",
+
+    "ritwickdey.LiveServer",
+    "MS-CEINTL.vscode-language-pack-pt-BR",
+    "foxundermoon.shell-format",
+
+    "CoenraadS.bracket-pair-colorizer",
+    "GrapeCity.gc-excelviewer",
+    "tomoki1207.pdf",
+    "berublan.vscode-log-viewer"
+  ]
+}
