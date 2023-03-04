@@ -1,16 +1,12 @@
-# neo-tennis-extension-pack README
+# neo-tennis-extension-pack
 
-## Working with Markdown
+Pacote com boas extensões para desenvolvimento de angular e spring boot
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Extensions Included
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+* [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode) - Provides AI-assisted productivity features for Python developers in Visual Studio Code with insights based on understanding your code combined with machine learning..
 
-## For more information
+Adicionarei as outras no futuro, eu prometo.
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
 **Enjoy!**
