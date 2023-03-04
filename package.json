@@ -3,7 +3,7 @@
   "displayName": "neo-tennis-developer-extension-pack",
   "description": "Pacote com boas extensões para desenvolvimento de angular e spring boot",
   "version": "0.1.0",
-  "publisher": "neo-team-org",
+  "publisher": "vyctor922",
   "engines": {
     "vscode": "^1.76.0"
   },
