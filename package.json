@@ -2,15 +2,33 @@
   "name": "neo-tennis-extension-pack",
   "displayName": "neo-tennis-developer-extension-pack",
   "description": "Pacote com boas extensões para desenvolvimento de angular e spring boot",
-  "version": "0.1.0",
+  "icon": "logo.png",
+  "version": "1.0.0",
   "publisher": "vyctor922",
+  "author": {
+		"name": "Victor Alexandre",
+		"email": "victoralexandre922@gmail.com"
+	},
   "engines": {
-    "vscode": "^1.76.0"
+    "vscode": "^1.49.0"
   },
+  "keywords": [
+    "angular",
+    "spring-boot",
+    "java",
+    "typescript",
+    "vscode",
+    "git",
+    "github",
+    "extension-pack",
+		"neo-tennis"
+	],
   "categories": [
     "Extension Packs"
   ],
+  "license": "MIT",
   "repository": {
+    "type": "git",
     "url": "https://github.com/neo-team-org/neo-tennis-extension-pack"
   },
   "extensionPack": [
@@ -39,13 +57,11 @@
     "VisualStudioExptTeam.vscodeintellicode",
     "VisualStudioExptTeam.intellicode-api-usage-examples",
 
-    "ritwickdey.LiveServer",
-    "MS-CEINTL.vscode-language-pack-pt-BR",
     "foxundermoon.shell-format",
-
-    "CoenraadS.bracket-pair-colorizer",
+    "pnp.polacode",
     "GrapeCity.gc-excelviewer",
     "tomoki1207.pdf",
+    "MS-CEINTL.vscode-language-pack-pt-BR",
     "berublan.vscode-log-viewer"
   ]
 }
